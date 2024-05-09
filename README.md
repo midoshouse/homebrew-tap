@@ -1,11 +1,13 @@
-# Midoshouse Tap
+# Mido's House Homebrew Tap
 
-## How do I install these formulae?
+This is a tap (package source) for [Homebrew](https://brew.sh/), the macOS package manager, containing [Mido's House Multiworld](https://github.com/midoshouse/ootr-multiworld).
+
+# What formulae (packages) are available?
+
+None so far.
+
+# How do I install these formulae?
 
 `brew install midoshouse/tap/<formula>`
 
 Or `brew tap midoshouse/tap` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
