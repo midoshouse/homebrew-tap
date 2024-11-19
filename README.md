@@ -4,7 +4,7 @@ This is a tap (package source) for [Homebrew](https://brew.sh/), the macOS packa
 
 # What formulae (packages) are available?
 
-None so far.
+* `mhmw`: The multiworld app
 
 # How do I install these formulae?
 
