@@ -13,8 +13,4 @@ cask "mhmw" do
     app "Mido's House Multiworld.app"
 
     #zap #TODO delete XDG config file midos-house/multiworld.json and data files midos-house/multiworld-gui.log and midos-house/multiworld-state.asyncproto
-
-    caveats do
-        unsigned_accessibility
-    end
 end
