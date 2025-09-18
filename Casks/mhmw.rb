@@ -1,6 +1,6 @@
 cask "mhmw" do
-  version "17.0.2"
-  sha256 "9aa076eced2711930ca243faa08d3c2efe0f728bc95230e30a1e57d808a8d4d2"
+  version "17.0.3"
+  sha256 "73063446a51087f25a0d004db105a851b6f9069974d38191d2bd42a192e3af60"
 
   url "https://github.com/midoshouse/ootr-multiworld/releases/download/v#{version}/multiworld-gui.dmg",
       verified: "github.com/midoshouse/ootr-multiworld/"
