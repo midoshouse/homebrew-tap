@@ -8,8 +8,6 @@ cask "mhmw" do
   desc "Multiplayer plugin for the Ocarina of Time randomizer"
   homepage "https://midos.house/mw"
 
-  depends_on macos: ">= :el_capitan"
-
   app "Mido's House Multiworld.app"
 
   # zap #TODO delete XDG config file midos-house/multiworld.json
